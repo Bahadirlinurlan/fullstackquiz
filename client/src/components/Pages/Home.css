@@ -1,0 +1,135 @@
+.contaner__middle{
+    position: absolute;
+    color: green;
+    font-family: 'Crimson Text', serif;
+    font-size: 17px;
+    margin-top: -22.4%;
+    margin-left: 46%;
+    font-weight: 100;
+}
+
+.contaner__middle2{
+    position: absolute;
+    color: green;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 42px;
+    margin-top: -20.4%;
+    margin-left: 35.3%;
+    font-weight: 100;
+}
+
+.contaner__middle__picture{
+    background-image: url(https://mobirise.com/extensions/floram4/floral-studio/assets/images/background2.jpg);
+    width: 1903px;
+    height: 630px;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+.contaner__squery{
+    padding-left: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+}
+.contaner__squery1{
+    width: 480px;
+    height: 480px;
+    background-color: #196c5df2;
+    position: absolute;
+    bottom: 61px;
+    margin-left: 110%;
+}
+
+.contaner__test1{
+    align-items: center;
+    font-size: 47px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 33%;
+}
+
+.contaner__test2{
+    align-items: center;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: 10%;
+
+}
+.contaner__button1 button{
+    align-items: center;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    color: #686868;
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    margin-left: 23.55%;
+    width: 164px;
+    height: 46px;
+    cursor: pointer;
+}
+
+.contaner__button1 :hover {
+    opacity: 0.8 0.1 ;
+    transition: 1s;
+}
+.contaner__picture3{
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/b4.jpg");
+    width: 480px;
+    height: 480px;
+    margin-left: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+.container__middle__squary__image{
+    background-image: url(https://mobirise.com/extensions/floram4/floral-studio/assets/images/background1.jpg);
+    width: 1903px;
+    height: 1600px
+}
+
+.container__middle__squary2{
+    width: 90%;
+    height: 900px;
+    border: 3px solid black;
+    margin-left: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 208%;
+}
+
+.container__middle__text5{
+    position: absolute;
+    top: 25px;
+    color: green;
+    font-family: 'Crimson Text', serif;
+}
+.container__middle__text6{
+    position: absolute;
+    top: 56px;
+    font-size: 45px;
+    color: green;
+    font-family: 'Quicksand', sans-serif;
+}
+.container__middle__image6{
+    position: absolute;
+    margin-top: -67%;
+    margin-left: 15%;
+
+}
+
+.container__middle__text7{
+    position: absolute;
+    margin-top: -55%;
+    margin-left: 21%;
+}

@@ -1,0 +1,53 @@
+.Navbar{
+    width: 100%;
+    height: 71px;
+    display: flex;
+    background-color:#196c5df2;
+}
+
+.navbar__left{
+    margin-left: 47px;
+    font-size: 22px;
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: 600;
+    margin-top: 1%;
+    color: white;
+}
+.navbar__left p{
+    cursor: pointer;
+}
+
+.navbar__right{
+    color: white;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    margin-top: 1.4%;
+    margin-left: 68%;
+    display: flex;
+    justify-content: space-between;
+    width: 357px;
+
+}
+
+.navbar__right p{
+    color: white;
+    cursor: pointer;
+}
+
+.navbar__picture{
+ 
+    background-size: cover;
+    background-repeat: no-repeat
+
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar__right :hover {
+color: rgb(255, 187, 0);
+transition: 0.3s;
+}
